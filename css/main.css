@@ -1,0 +1,26 @@
+body{
+    background-color:#808080;
+}
+
+#cadastro fieldset{
+    width: 800px;
+    padding: 10px;
+    background-color: deepskyblue;
+}
+#cadastro fieldset legend{
+    padding: 10px;
+    background-color: deepskyblue;
+    font-family: Arial;
+    font-size: 40px;
+}
+#cadastro fieldset label{
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    padding-top:5px;
+}
+#cadastro fieldset input{
+  
+    background-color: white;
+    border: 0px;
+}
