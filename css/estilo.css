@@ -1,0 +1,75 @@
+.tamanho{
+    width: 400px;
+    height: 200px;
+}
+
+#site{
+    width: 1170px;
+    height: 100%;
+    padding: 0px;
+}
+#banner {
+    background-color: #81BEF7;
+    height: 90px;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+#banner img{
+    
+    height: 60px;
+    margin: 20px;
+    padding: 0px;
+    width: 35%;
+}
+
+#menu{
+    width: 100%;
+    background: black;
+}
+
+#rodape{
+    margin: 0px auto 0px auto;
+    padding: 0px 0 0 0;
+    position: static;
+    width: 100%;
+    height: 40px;
+    background-color: #81BEF7;
+    color: lavender;
+	
+}
+
+
+
+#conteudo{
+    width: 100%;
+    height: 490px;
+    padding: 0px;
+   
+}
+
+#conteudo div{
+    
+    height: 100%;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+#conteudo-main-noticia {
+    text-align: ajustify;
+    word-wrap: break-word;
+    float:left;  
+}
+#conteudo-sencodary-noticia{
+    text-align: ajustify;
+    word-wrap: break-word;
+    float:left;
+}
+
+
+
+
+
+    

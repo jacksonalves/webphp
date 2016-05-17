@@ -1,0 +1,31 @@
+#mostraTodas{
+    width: 800px;
+    height: 100%;
+    background-color: red;
+}
+#site{
+    width: 1170px;
+    height: 100%;
+    padding: 0px;
+    background-color: red;
+}
+#banner {
+    background-color: #81BEF7;
+    height: 90px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    
+}
+#banner img{
+    
+    height: 60px;
+    margin: 20px;
+    padding: 0px;
+    width: 35%;
+}
+
+#menu{
+    width: 100%;
+    background: black;
+}
